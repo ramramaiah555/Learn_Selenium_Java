@@ -13,6 +13,7 @@ import org.testng.annotations.BeforeTest;
 public class BaseClass {
 	
 	public static ChromeDriver driver;
+	public static String leadID;
 	
 	@BeforeTest
 	public void preCondition() {
