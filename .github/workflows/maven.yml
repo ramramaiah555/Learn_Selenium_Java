@@ -28,4 +28,4 @@ jobs:
       with:
         name: test-reports
         path: directory/test-output/*
-        retention-days: 7  # Optional: Set how long the artifact is stored
+        retention-days: 7  # Optional: Set how long the artifact is stored 
